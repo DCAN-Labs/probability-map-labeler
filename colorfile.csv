@@ -1,0 +1,14 @@
+./GRP1_singlenet_copy/ABCD_GRP1_singlenet_probability_n2988_Aud_network_thresh.dscalar.nii,Aud,177,102,255,255
+./GRP1_singlenet_copy/ABCD_GRP1_singlenet_probability_n2988_CO_network_thresh.dscalar.nii,CO,102,0,204,255
+./GRP1_singlenet_copy/ABCD_GRP1_singlenet_probability_n2988_DAN_network_thresh.dscalar.nii,DAN,0,255,0,255
+./GRP1_singlenet_copy/ABCD_GRP1_singlenet_probability_n2988_DMN_network_thresh.dscalar.nii,DMN,255,0,0,255
+./GRP1_singlenet_copy/ABCD_GRP1_singlenet_probability_n2988_FP_network_thresh.dscalar.nii,FP,255,255,0,255
+./GRP1_singlenet_copy/ABCD_GRP1_singlenet_probability_n2988_MTL_network_thresh.dscalar.nii,MTL,102,255,102,255
+./GRP1_singlenet_copy/ABCD_GRP1_singlenet_probability_n2988_PMN_network_thresh.dscalar.nii,PMN,0,0,255,255
+./GRP1_singlenet_copy/ABCD_GRP1_singlenet_probability_n2988_PON_network_thresh.dscalar.nii,PON,239,239,239,255
+./GRP1_singlenet_copy/ABCD_GRP1_singlenet_probability_n2988_Sal_network_thresh.dscalar.nii,Sal,0,0,0,255
+./GRP1_singlenet_copy/ABCD_GRP1_singlenet_probability_n2988_SMd_network_thresh.dscalar.nii,SMd,102,255,255,255
+./GRP1_singlenet_copy/ABCD_GRP1_singlenet_probability_n2988_SMl_network_thresh.dscalar.nii,SMl,255,128,0,255
+./GRP1_singlenet_copy/ABCD_GRP1_singlenet_probability_n2988_Tpole_network_thresh.dscalar.nii,Tpole,0,102,153,255
+./GRP1_singlenet_copy/ABCD_GRP1_singlenet_probability_n2988_VAN_network_thresh.dscalar.nii,VAN,17,177,214,255
+./GRP1_singlenet_copy/ABCD_GRP1_singlenet_probability_n2988_Vis_network_thresh.dscalar.nii,Vis,0,0,153,255
